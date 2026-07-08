@@ -1,6 +1,4 @@
-# Tropical Positional Encodings for Implicit Neural Representations of Medical Images
-
-MICCAI 2025 submission pipeline.
+# Piecewise Positional Encodings
 
 ---
 
